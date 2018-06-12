@@ -59,15 +59,16 @@ To install the firmware, you will need the following items:
 
 #### Installing the BunkerBox control system:
 
-1. Download the script at https://raw.githubusercontent.com/bunker-stills/bunkerbox/master/tf-redbrick-run.js and save it to your computer hard drive.
+1. Head to https://github.com/bunker-stills/bunkerbox and click the `Clone or download` button, then click `Download ZIP`.
+1. Unzip the files somewhere on your hard drive.
 1. Click on the `Program` tab on the left
 1. Click on the `New` button near the bottom
 1. Use the following settings:
 1. Name: `BunkerBox`
 1. Language: `JavaScript (Browser/Node.js)`
 1. Click `Continue`
-1. Click `Add Files`
-1. Find the `tf-redbrick-run.js` file you just downloaded and choose it
+1. Click `Add Directory`
+1. Find the directory for the ZIP file you extracted earlier and choose that directory.
 1. Click `Continue`
 1. JavaScript Flavor: `Server-Side (Node.js 8.10.0)`
 1. Script File: `tf-redbrick-run.js`
